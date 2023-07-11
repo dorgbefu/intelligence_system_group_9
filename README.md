@@ -1,1 +1,1 @@
-# intelligence_system_group_9
+# Tutorial using churn dataset from kaggle
